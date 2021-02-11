@@ -40,7 +40,8 @@ ul {
 }
 img {
 	width: 100px;
-	height: 100px;	
+	height: 100px;
+	margin: 7px;	
 	
 }
 .music-list {
@@ -55,4 +56,9 @@ img {
 	border: 2px solid red;
 	margin: 5px;
 	padding: 7px;
+}
+h3 {
+	color: red;
+	font-size: 30px;
+	font-weight: bold;
 }
